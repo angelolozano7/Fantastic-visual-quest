@@ -1,0 +1,3 @@
+C:\Users\Home\Desktop\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\Home\Desktop\octavo semestre\computacion grafica\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\Home\source\repos\angelolozano7\Fantastic-visual-quest\Reto clases\Debug\TemplateProject.exe
